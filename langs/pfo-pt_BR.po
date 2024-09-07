@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Files Organizer\n"
+"POT-Creation-Date: 2024-09-06 21:39-0300\n"
+"PO-Revision-Date: 2024-09-06 21:40-0300\n"
+"Last-Translator: \n"
+"Language-Team: Cau Guanabara\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: index.php:48 index.php:86
+msgid "Create directory"
+msgstr "Criar diretório"
+
+#: index.php:49
+msgid "Sub directory of: "
+msgstr "Sub diretório de: "
+
+#: index.php:50
+msgid "None"
+msgstr "Nenhum"
+
+#: index.php:51
+msgid "When you click Ok, your publication will be saved."
+msgstr "Ao clicar em Ok sua publicação será salva."
+
+#: index.php:52
+msgid "Directory name"
+msgstr "Nome do diretório"
+
+#: index.php:53
+#, php-format
+msgid "Do you really want to remove the %s directory?"
+msgstr "Deseja realmente remover o diretório %s?"
+
+#: index.php:62
+msgid "Attached files"
+msgstr "Arquivos anexados"
+
+#: index.php:69
+msgid "Move selected files to:"
+msgstr "Mover arquivos selecionados para:"
+
+#: index.php:70
+msgid "Select..."
+msgstr "Selecionar..."
+
+#: index.php:75
+msgid "Move"
+msgstr "Mover"
+
+#: index.php:78
+msgid "Files attached to this publication"
+msgstr "Arquivos anexados a essa publicação"
+
+#: index.php:89
+msgid "Send files"
+msgstr "Enviar arquivos"
+
+#: index.php:100
+msgid "No files to show"
+msgstr "Nenhum arquivo para exibir"
+
+#: index.php:107 index.php:293
+msgid "Directory"
+msgstr "Diretório"
+
+#: index.php:108 index.php:294
+msgid "Remove directory"
+msgstr "Remover diretório"
+
+#, fuzzy
+#~| msgid "Create directory"
+#~ msgid "Criar diretório"
+#~ msgstr "Criar diretório"
+
+#~ msgid "Create pseudo-directories to organize post attached documents"
+#~ msgstr "Crie pseudo-diretórios para organizar arquivos anexados a um post"

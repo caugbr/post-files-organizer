@@ -1,0 +1,78 @@
+
+ul.downloads,
+ul.downloads ul,
+ul.downloads li {
+    padding: 0;
+    margin: 0;
+}
+
+ul.downloads li a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 8px 12px;
+    margin: 0;
+    background-color: #E9E9E9;
+    outline: none;
+}
+
+ul.downloads li a.dir {
+    cursor: pointer;
+}
+
+ul.downloads li .remove-dir {
+    cursor: pointer;
+    margin-left: 1.5rem;
+    text-decoration: underline;
+    float: right;
+}
+
+ul.downloads li .remove-dir:hover {
+    color: #aa2233;
+}
+
+ul.downloads li a:focus,
+ul.downloads li a:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+
+ul.downloads li:nth-child(odd) a {
+    background-color: #F1F1F1;
+}
+
+ul.downloads li .desc {
+    color: #777;
+    font-style: italic;
+    margin-left: 1.2rem;
+}
+
+ul.downloads li ul {
+    display: none;
+}
+
+ul.downloads li ul.visible {
+    display: block;
+}
+
+ul.downloads li .move-file {
+    float: right;
+}
+
+ul.downloads li ul a {
+    padding-left: 2rem;
+}
+
+ul.downloads li ul li ul a {
+    padding-left: 4rem;
+}
+
+ul.downloads li ul li ul li ul a {
+    padding-left: 6rem;
+}
+
+ul.downloads li.empty {
+    color: #999;
+    font-style: italic;
+}

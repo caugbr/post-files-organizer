@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Post Files Organizer\n"
 "POT-Creation-Date: 2024-09-06 21:39-0300\n"
-"PO-Revision-Date: 2024-09-06 21:40-0300\n"
+"PO-Revision-Date: 2024-09-06 21:58-0300\n"
 "Last-Translator: \n"
 "Language-Team: Cau Guanabara\n"
 "Language: pt_BR\n"
@@ -16,6 +16,10 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: index.php:48 index.php:4
+msgid "Create pseudo-directories to organize documents attached to the post"
+msgstr "Crie pseudo-diretórios para organizar os arquivos anexados a uma publicação"
 
 #: index.php:48 index.php:86
 msgid "Create directory"

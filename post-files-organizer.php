@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin name: Post files organizer
- * Description: Create pseudo-directories to organize post attached documents
+ * Description: Create pseudo-directories to organize documents attached to the post
  * Version: 1.0
  * Author: Cau Guanabara
  * Author URI: mailto:cauguanabara@gmail.com
